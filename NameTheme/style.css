@@ -1,0 +1,25 @@
+/*   
+Theme Name: Units
+Theme URI:
+Description:
+Author: Filipp Mashukov
+Author URI: 
+*/
+/* MAIN */
+body {}
+a {
+	text-decoration: none !important;
+	transition: all .3s;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+#map {
+	width: 600px;
+	max-width: 100%;
+	margin: 0 auto;
+	height: 450px;
+}
+/* HEADER */
+/* FOOTER */
